@@ -1,0 +1,1 @@
+module.exports = inp => inp.replace( /(<([^>]+)>)/ig, '')
