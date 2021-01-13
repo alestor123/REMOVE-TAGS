@@ -1,5 +1,5 @@
 {
-  "name": "remove-tags",
+  "name": "rm-tags",
   "version": "1.0.0",
   "description": "This is a simple code for removing all html tags from string",
   "main": "App.js",
